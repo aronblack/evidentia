@@ -1,0 +1,6 @@
+*
+!.gitignore
+!livre/
+!livre/**
+!livrechildtheme/
+!livrechildtheme/**

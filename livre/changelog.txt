@@ -1,0 +1,187 @@
+2.0.1 - 13 March 2023
+- added : Compatibility Elementor
+- updated : fully remove King Composer Feature
+- fixed : WooCommerce Template Override version
+
+NOTE:
+In the next update the King Composer Support will be completely deleted from this theme.
+Please Keep choose the version of theme to your needed.
+Version 1.1.14 not support with WordPress v5.4+ and WooCommerce v5.0+
+
+2.0.0 - 5 December 2021
+- added : Compatibility Elementor
+- updated : Livre Addons Plugin v1.0.0
+- fixed : WooCommerce Template Override version
+
+1.1.14 - 18-12-2020
+- Fix Lazyload Issue
+
+1.1.13 - 14-12-2020
+- Fix outdate template WooCommerce 4.8.0
+
+1.1.12 - 17-11-2020
+- Fix Payment Logo on customizer
+- Fix post pagination
+- add space in tag on post list 
+- fix notice on Jquery Migrate Helper plugin
+- Update Version King Composer
+
+1.1.11 14-09-2020
+- Fix outdate template WooCommerce 4.4.0
+
+1.1.10 14-09-2020
+- Add Enable Jquery Migrate Helper as Required plugin
+- Update Tokoo Vitamin Plugin 6.5.2
+
+1.1.9
+- Change image size for back cover in Look Inside Mode
+- Exclude Uncategorized in search product Select Box
+
+1.1.8 - 16-06-2020
+- Update Version King Composer Plugin in Required plugin
+
+1.1.7 - 08-06-2020
+- Update King Composer url plugin
+
+1.1.6 - 26-05-2020
+- Fix outdate template WooCommerce 4.1.1
+
+1.1.5 - 17-04-2020
+- Fix Livre Category Icon Grid 
+
+1.1.4 - 04-02-2019
+- add element link color on post and page content in Accent Color options
+- Fix style in attributes single product
+- Fix outdate template WooCommerce 3.9.0
+- Fix style in wishlist page
+
+1.1.3 - 27-09-2019
+- Fix outdate template WooCommerce 3.8.0
+
+1.1.2 - 27-09-2019
+- Fix outdate template WooCommerce 3.7.0
+- Add Livre Addons Plugin
+- Update Tokoo Vitamin Plugin
+
+1.1.1 - 22-04-2019
+- Fix outdate template WooCommerce 3.6
+- Fix Advance Search Result
+- Fix Image Size Product Notice
+
+1.0.24 - 22-02-2019
+- Fix outdate template WooCommerce 3.5.5
+
+1.0.23 - 08-02-2019
+- Fix display Price in shop page 
+
+1.0.22 - 29-01-2019
+- Fix Woocommerce Page translate issue
+- Add Options change a filter name in Author list Page
+- Fix Display Product Options from WooCommerce 3.5.3 Settings
+- Fix Product Type Regular Page
+
+1.0.21 - 10-01-2019
+- Fix Issue in P-Product Element in WooCommerce 3.5.3
+
+1.0.20 - 03-01-2019
+- Add Filter Sort name in Author list Page
+
+1.0.19 - 4-12-2018
+- Fix outdate template WooCommerce 3.5.2
+
+1.0.18 - 26-10-2018
+- Fix Issue in P-Book Authors Element
+- Fix Issue in P-Book Series Element
+- Fix outdate template WooCommerce 3.5.0
+- Fix Warning Console in Checkout Page
+
+1.0.17 - 03-09-2018
+- Optimize P-Book Authors
+- Optimize P-Book Series 
+- Optimize P-Category Icons Grid
+- Optimize P-Contact Form 
+- Optimize P-Product Details
+- Optimize P-Product Sales Countdown
+- Optimize P-Products
+- Optimize P-Sliders 
+- Optimize query in shop page default
+- Add options to show only one product type in shop page
+
+1.0.16 - 31-07-2018
+- Contact Template - Google Maps - option to use Embed Map without API key
+- Contact Template - Google Maps - option to change map height (px)
+
+1.0.15 - 10-07-2018
+- fix woocommerce series page
+- update mini cart style
+- fix rating options in modern product style
+
+1.0.14 - 29-05-2018
+- double check in thumbnails product
+
+1.0.13 - 25-05-2018
+- Fix outdate template WooCommerce 3.4.0
+
+1.0.12 - 15-04-2018
+- fix some translate issue
+- fix search conflict with WPML Plugin
+
+1.0.11 - 19-04-2018
+- Fix sidebar settings in shop page
+- Fix P-Product element filter settings
+
+1.0.10 - 12-04-2018
+- fix search and sort order in shop page admin
+- fix uncropped woocommerce settings image
+- fix sort price in shop page
+
+1.0.9 - 20-02-2018
+- Fix outdate template WooCommerce 3.3.1
+- fix sidebar settings in shop page
+- update import demo data
+
+1.0.8 - 15-01-2018
+- fix miss translate issue
+- fix my order page in Woocommerce 3.2.6
+
+1.0.7 - 04-01-2018
+- fix message error in register pop up login
+- fix livre featured book eleement
+- update import demo data
+
+1.0.6 - 08-12-2017
+- Update import demo data
+
+1.0.5 - 23-11-2017 
+- Fix warning ID after import 
+- double check in Category Tile Element
+- double check in Collection Element
+- double check in Author Highlight
+- add author in search result product
+- fix book series page 
+- add New Homepage 8 in demo data import
+- fix Product Per page in list product
+
+
+1.0.4 - 17-11-2017
+- add compatible to WC Marketplace
+
+1.0.3 - 07-11-2017
+- search field auto focus
+- add import demo data button 
+- FIx search form query (include meta field, taxonomy )
+- fix my order menu Url in menu user
+- Product in author page follow the Product style
+- Product in publisher page follow the Product style
+- add option change header and footer background color
+- fix filter columns in collections element
+- add option author image style in page template author
+
+1.0.2 - 19-10-2017
+- Fix child theme load style from parent theme
+
+1.0.1
+- Fix woocommerce outdate template in v3.2.1
+
+1.0
+- Initial Release
