@@ -15,6 +15,8 @@ function livre_setup() {
 	 */
 	load_theme_textdomain( 'livre', get_template_directory() . '/languages' );
 
+	new Livre_Autoloaders();
+
 	/**
 	 * Set the content width based on the theme's design and stylesheet.
 	 */
@@ -69,14 +71,3 @@ function livre_register_primary_sidebar() {
 	}
 
 }
-
-
-/** ======================================================================== *
- *  Load All Configuration 													 *
- ** ======================================================================== */
-
-	new Livre_Autoloaders();
-
-/* ================================ END =================================== */
-
-

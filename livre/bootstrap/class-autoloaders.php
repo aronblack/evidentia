@@ -13,6 +13,7 @@ class Livre_Autoloaders {
 	private $helpers_data;
 	private $images_data;
 	private $menus_data;
+	private $names = array();
 	private $options_data;
 	private $support_data;
 
