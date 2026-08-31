@@ -1,0 +1,746 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Book Store by 99plugins\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-15 09:28+0700\n"
+"PO-Revision-Date: 2016-11-22 09:43+0700\n"
+"Last-Translator: Tokokoo <support@tokokoo.com>\n"
+"Language-Team: Tokomoo <support@tokomoo.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_html__;esc_html_e;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: framework/fields/core/Container/Container.php:554
+msgid "General"
+msgstr ""
+
+#: framework/fields/core/Container/Container.php:740
+msgid "Please fill out all required fields highlighted below."
+msgstr ""
+
+#: framework/fields/core/Container/Container.php:741
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr ""
+
+#: framework/fields/core/Container/Theme_Options_Container.php:149
+msgid "Settings saved."
+msgstr ""
+
+#: framework/fields/core/Field/Association_Field.php:371
+#: framework/fields/core/Field/Relationship_Field.php:265
+msgid "Edit"
+msgstr ""
+
+#: framework/fields/core/Field/Broken_Field.php:11
+msgid "This field is misconfigured"
+msgstr ""
+
+#: framework/fields/core/Field/Color_Field.php:17
+msgid "Select a Color"
+msgstr ""
+
+#: framework/fields/core/Field/Complex_Field.php:38
+msgid "Entry"
+msgstr ""
+
+#: framework/fields/core/Field/Complex_Field.php:39
+msgid "Entries"
+msgstr ""
+
+#: framework/fields/core/Field/Complex_Field.php:495
+#: framework/fields/core/Field/Complex_Field.php:496
+msgid "Collapse/Expand"
+msgstr ""
+
+#: framework/fields/core/Field/Complex_Field.php:499
+#: framework/fields/core/Field/Complex_Field.php:500
+msgid "Clone"
+msgstr ""
+
+#: framework/fields/core/Field/Complex_Field.php:503
+#: framework/fields/core/Field/Complex_Field.php:504
+#: framework/wc-fields/class-wc-product-data-fields.php:433
+#: framework/wc-fields/class-wc-product-data-fields.php:493
+msgid "Remove"
+msgstr ""
+
+#: framework/fields/core/Field/Complex_Field.php:565
+msgid "Complex field <code>"
+msgstr ""
+
+#: framework/fields/core/Field/Date_Field.php:39
+msgid "Date"
+msgstr ""
+
+#: framework/fields/core/Field/Field.php:816
+#: framework/fields/core/Field/File_Field.php:28
+msgid "Files"
+msgstr ""
+
+#: framework/fields/core/Field/Field.php:817
+msgid "The address could not be found. "
+msgstr ""
+
+#: framework/fields/core/Field/Field.php:818
+msgid "Geocode was not successful for the following reason: "
+msgstr ""
+
+#: framework/fields/core/Field/Field.php:819
+#, php-format
+msgid "Maximum number of items reached (%s items)"
+msgstr ""
+
+#: framework/fields/core/Field/Field.php:820
+#, php-format
+msgid "Maximum number of rows reached (%s rows)"
+msgstr ""
+
+#: framework/fields/core/Field/Field.php:821
+#, php-format
+msgid "Cannot create more than %s rows"
+msgstr ""
+
+#: framework/fields/core/Field/Field.php:822
+msgid "Please enter the name of the new sidebar:"
+msgstr ""
+
+#: framework/fields/core/Field/Field.php:823
+msgid "Are you sure you wish to remove this sidebar?"
+msgstr ""
+
+#: framework/fields/core/Field/Field.php:824
+msgid "Add Sidebar"
+msgstr ""
+
+#: framework/fields/core/Field/Field.php:825
+#, php-format
+msgid "There are no %s yet. Click <a href=\"#\">here</a> to add one."
+msgstr ""
+
+#: framework/fields/core/Field/Field.php:826
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: framework/fields/core/Field/Field.php:827
+#, php-format
+msgid "Minimum number of rows not reached (%d %s)"
+msgstr ""
+
+#: framework/fields/core/Field/Field.php:828
+msgid "Please fill out all fields correctly. "
+msgstr ""
+
+#: framework/fields/core/Field/Field.php:829
+msgid "This field is required. "
+msgstr ""
+
+#: framework/fields/core/Field/Field.php:830
+msgid "Please choose an option. "
+msgstr ""
+
+#: framework/fields/core/Field/File_Field.php:26
+#: framework/fields/core/Field/File_Field.php:27
+msgid "Select File"
+msgstr ""
+
+#: framework/fields/core/Field/Footer_Scripts_Field.php:14
+msgid ""
+"If you need to add scripts to your footer (like Google Analytics tracking "
+"code), you should enter them in this box."
+msgstr ""
+
+#: framework/fields/core/Field/Gravity_Form_Field.php:45
+msgid "No form"
+msgstr ""
+
+#: framework/fields/core/Field/Gravity_Form_Field.php:80
+msgid "Please install Gravity Forms plugin"
+msgstr ""
+
+#: framework/fields/core/Field/Gravity_Form_Field.php:86
+msgid "No Gravity Forms have been found."
+msgstr ""
+
+#: framework/fields/core/Field/Header_Scripts_Field.php:14
+msgid "If you need to add scripts to your header, you should enter them here."
+msgstr ""
+
+#: framework/fields/core/Field/Image_Field.php:18
+#: framework/fields/core/Field/Image_Field.php:19
+msgid "Select Image"
+msgstr ""
+
+#: framework/fields/core/Field/Image_Field.php:20
+msgid "Images"
+msgstr ""
+
+#: framework/fields/core/Field/Map_Field.php:102
+msgid "Locate Address on the map"
+msgstr ""
+
+#: framework/fields/core/Field/Map_Field.php:107
+msgid "Find"
+msgstr ""
+
+#: framework/fields/core/Field/Radio_Field.php:15
+#: framework/fields/core/Field/Select_Field.php:33
+#: framework/fields/core/Field/Set_Field.php:73
+msgid "no options"
+msgstr ""
+
+#: framework/fields/core/Field/Relationship_Field.php:211
+msgid "selected item"
+msgstr ""
+
+#: framework/fields/core/Field/Relationship_Field.php:211
+#: framework/fields/core/Field/Relationship_Field.php:212
+msgid "selected items"
+msgstr ""
+
+#: framework/fields/core/Field/Relationship_Field.php:219
+msgid "out of"
+msgstr ""
+
+#: framework/fields/core/Field/Relationship_Field.php:226
+msgid "Search"
+msgstr ""
+
+#: framework/fields/core/Field/Relationship_Field.php:239
+msgid "Associated:"
+msgstr ""
+
+#: framework/fields/core/Field/Rich_Text_Field.php:31
+#: framework/fields/core/Field/Rich_Text_Field.php:32
+msgid "Add Media"
+msgstr ""
+
+#: framework/fields/core/Field/Rich_Text_Field.php:43
+msgid "Visual"
+msgstr ""
+
+#: framework/fields/core/Field/Rich_Text_Field.php:46
+msgid "Text"
+msgstr ""
+
+#: framework/fields/core/Field/Set_Field.php:92
+msgid "Show All Options"
+msgstr ""
+
+#: framework/fields/core/Field/Sidebar_Field.php:35
+msgctxt "sidebar"
+msgid "Add New"
+msgstr ""
+
+#: framework/fields/core/Field/Time_Field.php:75
+msgid "Timepicker"
+msgstr ""
+
+#: framework/fields/core/Manager/Sidebar_Manager.php:104
+msgid "Sidebar with the same ID is already registered."
+msgstr ""
+
+#: framework/fields/core/Manager/Sidebar_Manager.php:131
+msgid "Sidebar not found."
+msgstr ""
+
+#: framework/fields/templates/Container/theme_options.php:31
+msgid "Actions"
+msgstr ""
+
+#: framework/fields/templates/Container/theme_options.php:40
+msgid "Save Changes"
+msgstr ""
+
+#: framework/fields/templates/Container/widget.php:5
+msgid "No options are available for this widget."
+msgstr ""
+
+#: framework/libraries/extended-cpts.php:716
+#, php-format
+msgid ""
+"Post type query var \"%s\" clashes with a taxonomy query var of the same name"
+msgstr ""
+
+#: framework/libraries/extended-cpts.php:1025
+#, php-format
+msgid "The \"%s\" class is required in order to display taxonomy filters"
+msgstr ""
+
+#: framework/libraries/extended-cpts.php:1550 modules/book-stores/books.php:81
+msgid "Author"
+msgstr ""
+
+#: framework/libraries/extended-cpts.php:1835
+#: framework/libraries/extended-cpts.php:1859
+#, php-format
+msgid "Invalid connection type: %s"
+msgstr ""
+
+#: framework/libraries/extended-taxos.php:270
+#, php-format
+msgid ""
+"Taxonomy query var \"%s\" clashes with a post type query var of the same name"
+msgstr ""
+
+#: framework/libraries/extended-taxos.php:275
+#, php-format
+msgid "Taxonomy query var \"%s\" is not allowed"
+msgstr ""
+
+#: framework/libraries/extended-taxos.php:681
+msgid "Not specified"
+msgstr ""
+
+#: framework/wc-fields/class-wc-product-data-fields.php:441
+msgid "Choose image"
+msgstr ""
+
+#: framework/wc-fields/class-wc-product-data-fields.php:503
+msgid "Choose images"
+msgstr ""
+
+#: modules/audio-product/audio.php:14
+msgid "Audio Details"
+msgstr ""
+
+#: modules/audio-product/audio.php:21
+msgid "Audio Section"
+msgstr ""
+
+#: modules/audio-product/audio.php:27
+msgid "Audio Items"
+msgstr ""
+
+#: modules/audio-product/audio.php:34
+msgid "Audio File"
+msgstr ""
+
+#: modules/audio-product/audio.php:35
+msgid "Enter the audio file"
+msgstr ""
+
+#: modules/audio-product/audio.php:67
+msgid "Affiliate Link"
+msgstr ""
+
+#: modules/audio-product/audio.php:73
+msgid "App Store Link"
+msgstr ""
+
+#: modules/audio-product/audio.php:74 modules/audio-product/audio.php:83
+msgid "http://"
+msgstr ""
+
+#: modules/audio-product/audio.php:75
+msgid "Enter your App Store affiliate link"
+msgstr ""
+
+#: modules/audio-product/audio.php:82
+msgid "Play Store Link"
+msgstr ""
+
+#: modules/audio-product/audio.php:84
+msgid "Enter your Play Store affiliate link"
+msgstr ""
+
+#: modules/book-stores/books.php:7
+msgid "WooCommerce Book Store"
+msgstr ""
+
+#: modules/book-stores/books.php:9 modules/frequently-bought-together/fbt.php:8
+#: modules/recommendation-engine/init.php:10
+#: modules/sales-countdown/sales-countdown.php:8
+msgid "General Settings"
+msgstr ""
+
+#: modules/book-stores/books.php:10
+msgid "Enable Book Details"
+msgstr ""
+
+#: modules/book-stores/books.php:15
+msgid "Author Info"
+msgstr ""
+
+#: modules/book-stores/books.php:18 templates/books/wcbs-author-info.php:29
+msgid "Author Picture"
+msgstr ""
+
+#: modules/book-stores/books.php:19
+msgid "Author Birthday"
+msgstr ""
+
+#: modules/book-stores/books.php:23
+msgid "Current Date"
+msgstr ""
+
+#: modules/book-stores/books.php:25 modules/book-stores/books.php:37
+msgid "Facebook URL"
+msgstr ""
+
+#: modules/book-stores/books.php:26 modules/book-stores/books.php:38
+msgid "Twitter URL"
+msgstr ""
+
+#: modules/book-stores/books.php:27 modules/book-stores/books.php:39
+msgid "Instagram URL"
+msgstr ""
+
+#: modules/book-stores/books.php:28 modules/book-stores/books.php:40
+msgid "Google Plus URL"
+msgstr ""
+
+#: modules/book-stores/books.php:32
+msgid "Publisher Info"
+msgstr ""
+
+#: modules/book-stores/books.php:36
+msgid "Address URL"
+msgstr ""
+
+#: modules/book-stores/books.php:44
+msgid "Series Info"
+msgstr ""
+
+#: modules/book-stores/books.php:54
+msgid "Back Cover Image"
+msgstr ""
+
+#: modules/book-stores/books.php:59
+#: templates/books/wcbs-single-book-image.php:17
+#: templates/books/wcbs-single-book-image.php:117
+msgid "Back Cover"
+msgstr ""
+
+#: modules/book-stores/books.php:62
+msgid "Editorial Review"
+msgstr ""
+
+#: modules/book-stores/books.php:82
+msgid "Authors"
+msgstr ""
+
+#: modules/book-stores/books.php:89
+msgid "Publisher"
+msgstr ""
+
+#: modules/book-stores/books.php:90
+msgid "Publishers"
+msgstr ""
+
+#: modules/book-stores/books.php:98 modules/book-stores/books.php:99
+msgid "Series"
+msgstr ""
+
+#: modules/book-stores/books.php:223
+msgid "Meet The Author"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:6
+#: modules/frequently-bought-together/fbt.php:63
+#: templates/books/wcbs-fbt-form.php:92
+msgid "Frequently Bought Together"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:9
+msgid "Box Title"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:10
+msgid "Box Position"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:12
+msgid "Below Product Summary"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:13
+msgid "Above Related Products"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:14
+msgid "Below Related Products"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:15
+msgid "Display Manually"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:19
+#: modules/recommendation-engine/init.php:29
+msgid "Label Settings"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:22
+msgid "Label for Total"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:23
+msgid "Total Label For Single Product"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:24
+msgid "Total Label For Double Products"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:25
+msgid "Total Label For Three Products"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:26
+msgid "Total Label For Multiple Products"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:29
+msgid "Label for Button"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:30
+msgid "Button Label For Single Product"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:31
+msgid "Button Label For Double Products"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:32
+msgid "Button Label For Three Products"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:33
+msgid "Button Label For Multiple Products"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:37
+msgid "Style Settings"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:40
+msgid "Button Background Color"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:41
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:42
+msgid "Button Text Color"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:43
+msgid "Button Text Hover Color"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:68
+msgid "Select Products"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:69
+msgid "Select the Products"
+msgstr ""
+
+#: modules/frequently-bought-together/fbt.php:71
+msgid "Field description."
+msgstr ""
+
+#: modules/game-product/games.php:14
+msgid "Game Details"
+msgstr ""
+
+#: modules/game-product/games.php:21
+msgid "Game Section"
+msgstr ""
+
+#: modules/game-product/games.php:27 modules/movie-product/movies.php:27
+msgid "Select Video Type"
+msgstr ""
+
+#: modules/game-product/games.php:29 modules/movie-product/movies.php:29
+msgid "From URL"
+msgstr ""
+
+#: modules/game-product/games.php:30 modules/movie-product/movies.php:30
+msgid "From User Upload"
+msgstr ""
+
+#: modules/game-product/games.php:37 modules/game-product/games.php:53
+#: modules/movie-product/movies.php:37 modules/movie-product/movies.php:53
+msgid "Video Item"
+msgstr ""
+
+#: modules/game-product/games.php:45 modules/movie-product/movies.php:45
+msgid "Video URL"
+msgstr ""
+
+#: modules/game-product/games.php:46 modules/movie-product/movies.php:46
+msgid "Enter the video URL"
+msgstr ""
+
+#: modules/game-product/games.php:61 modules/movie-product/movies.php:61
+msgid "Upload Video"
+msgstr ""
+
+#: modules/game-product/games.php:62 modules/movie-product/movies.php:62
+msgid "upload the video file"
+msgstr ""
+
+#: modules/movie-product/movies.php:14
+msgid "Movie Details"
+msgstr ""
+
+#: modules/movie-product/movies.php:21
+msgid "Movie Section"
+msgstr ""
+
+#: modules/multiple-products/multiple.php:11
+msgid "Product Type"
+msgstr ""
+
+#: modules/multiple-products/multiple.php:29
+msgid "Regular"
+msgstr ""
+
+#: modules/multiple-products/multiple.php:36
+msgid "Book"
+msgstr ""
+
+#: modules/multiple-products/multiple.php:43
+msgid "Audio"
+msgstr ""
+
+#: modules/multiple-products/multiple.php:50
+msgid "Movie"
+msgstr ""
+
+#: modules/multiple-products/multiple.php:57
+msgid "Game"
+msgstr ""
+
+#: modules/recommendation-engine/hooks.php:37
+msgid "Customers also viewed these products"
+msgstr ""
+
+#: modules/recommendation-engine/hooks.php:66
+msgid "Customers also purchased these products"
+msgstr ""
+
+#: modules/recommendation-engine/init.php:8
+msgid "WooCommerce Recommendation Engine"
+msgstr ""
+
+#: modules/recommendation-engine/init.php:12
+msgid "Enable Your Recently Viewed Items"
+msgstr ""
+
+#: modules/recommendation-engine/init.php:14
+#: modules/recommendation-engine/init.php:22
+msgid "Limit Product"
+msgstr ""
+
+#: modules/recommendation-engine/init.php:16
+#: modules/recommendation-engine/init.php:24
+msgid "Product Columns"
+msgstr ""
+
+#: modules/recommendation-engine/init.php:20
+msgid "Enable Customers Who Bought This Item Also Bought"
+msgstr ""
+
+#: modules/recommendation-engine/init.php:30
+msgid "Your Recently Viewed Items Section Title"
+msgstr ""
+
+#: modules/recommendation-engine/init.php:31
+msgid "Customers Who Bought This Item Also Bought Section Title"
+msgstr ""
+
+#: modules/sales-countdown/sales-countdown.php:6
+msgid "WooCommerce Product Countdown"
+msgstr ""
+
+#: modules/sales-countdown/sales-countdown.php:10
+msgid "Enable Product Sales Countdown Feature"
+msgstr ""
+
+#: modules/sales-countdown/sales-countdown.php:30
+msgid "Sales Countdown"
+msgstr ""
+
+#: modules/sales-countdown/sales-countdown.php:35
+msgid "Enable"
+msgstr ""
+
+#: modules/sales-countdown/sales-countdown.php:36
+msgid "Enable Product Sales Countdown."
+msgstr ""
+
+#: modules/sales-countdown/sales-countdown.php:42
+msgid "Start Date"
+msgstr ""
+
+#: modules/sales-countdown/sales-countdown.php:43
+#: modules/sales-countdown/sales-countdown.php:45
+msgid "Choose the start date"
+msgstr ""
+
+#: modules/sales-countdown/sales-countdown.php:51
+msgid "End Date"
+msgstr ""
+
+#: modules/sales-countdown/sales-countdown.php:52
+#: modules/sales-countdown/sales-countdown.php:54
+msgid "Choose the end date"
+msgstr ""
+
+#: modules/sales-countdown/sales-countdown.php:87
+msgid "Reg. Price"
+msgstr ""
+
+#: modules/sales-countdown/sales-countdown.php:103
+msgid "Saving"
+msgstr ""
+
+#: modules/sales-countdown/sales-countdown.php:107
+msgid "Value"
+msgstr ""
+
+#: modules/sales-countdown/sales-countdown.php:111
+msgid "You Save"
+msgstr ""
+
+#: modules/sales-countdown/sales-countdown.php:139
+msgid "Ends in"
+msgstr ""
+
+#: templates/books/wcbs-fbt-form.php:39
+msgid "This Item : "
+msgstr ""
+
+#: templates/books/wcbs-single-book-image.php:28
+msgid "Flip to Back"
+msgstr ""
+
+#: templates/books/wcbs-single-book-image.php:33
+msgid "Look Inside"
+msgstr ""
+
+#: templates/books/wcbs-single-book-image.php:45
+msgid "You are previewing:"
+msgstr ""
+
+#: templates/books/wcbs-single-book-image.php:77
+msgid "Useful Reviews"
+msgstr ""

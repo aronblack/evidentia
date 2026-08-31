@@ -1,0 +1,7 @@
+1.3 - 10-04-2017
+- Fix deprecated function in WooCommerce 3.0
+
+1.2 - 15-12-2016
+- Optimize 
+- Terminate Recomendation engine
+- Fix translation
